@@ -1,0 +1,7 @@
+Flight{destination='Rome', flightId=8155}
+
+Flight{destination='Rome', flightId=6693}
+   Passenger{name='Anna', phoneNumber=2131523131, id=9212}
+
+Flight{destination='Madrid', flightId=6767}
+
